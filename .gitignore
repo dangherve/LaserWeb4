@@ -5,3 +5,5 @@ dist
 .zip
 machine-profiles.json
 !buildTools
+
+!.woodpecker
